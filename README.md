@@ -17,7 +17,7 @@ Perform analysis+ to include audit of election_results.csv data for the Colorado
 
   
 ### Summary
-the analysis of the election show that:
+      - The analysis of the election show that:
       - there were 369,711 votes cast in the election
       - The candidates were:
             - Charles Casper Stockham
