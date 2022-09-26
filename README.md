@@ -9,6 +9,7 @@ Perform analysis+ to include audit of election_results.csv data for the Colorado
       4. The winner of the election based on popular vote
 
    https://github.com/LaurasData/PyPoll/blob/main/Election_Analysis/PyPoll.py
+   https://github.com/LaurasData/PyPoll/blob/main/Election_Analysis/election_results.png
 
 
 ### Resources
