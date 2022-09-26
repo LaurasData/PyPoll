@@ -10,6 +10,7 @@ Perform analysis+ to include audit of election_results.csv data for the Colorado
 
    https://github.com/LaurasData/PyPoll/blob/main/Election_Analysis/PyPoll.py
    https://github.com/LaurasData/PyPoll/blob/main/Election_Analysis/election_results.png
+   https://github.com/LaurasData/PyPoll/blob/main/Election_Analysis/election_results.txt
 
 
 ### Resources
