@@ -17,7 +17,8 @@ Perform analysis+ to include audit of election_results.csv data for the Colorado
 ### Resources
       - Data Source: election_Results.csv
       - Software:  Python 3.9.12, Visual Studio Code 1.71.2
-
+      
+https://github.com/LaurasData/PyPoll/blob/main/Resources/election_results.csv
   
 ### Summary
       - The analysis of the election show that:
