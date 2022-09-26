@@ -8,6 +8,7 @@ Perform analysis+ to include audit of election_results.csv data for the Colorado
       3. Percentage of votes each candidate won
       4. The winner of the election based on popular vote
 
+   https://github.com/LaurasData/PyPoll/blob/main/README.md
    https://github.com/LaurasData/PyPoll/blob/main/Election_Analysis/PyPoll.py
    https://github.com/LaurasData/PyPoll/blob/main/Election_Analysis/election_results.png
    https://github.com/LaurasData/PyPoll/blob/main/Election_Analysis/election_results.txt
