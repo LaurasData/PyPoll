@@ -11,35 +11,39 @@ Perform analysis+ to include audit of election_results.csv data for the Colorado
    https://github.com/LaurasData/PyPoll/blob/main/Election_Analysis/PyPoll.py
 
 
-### Purpose
-      - Refactor Python Code in order to audit election results by popular vote
+### Resources
+      - Data Source: election_Results.csv
+      - Software:  Python 3.9.12, Visual Studio Code 1.71.2
 
-   https://github.com/LaurasData/stock-analysis/blob/main/PyPoll_Challenge.vbs
-
-### Analysis of winner based on popular vote
-      - 
-      -
-      -
+  
+### Summary
+the analysis of the election show that:
+      - there were 369,711 votes cast in the election
+      - The candidates were:
+            - Charles Casper Stockham
+            - Diana DeGette
+            - Raymon Anthony Doane
+      - The candidates results were:
+            - Candidate Charles Casper Stockham recieved 23.0% of the vote and 85,213 number of the votes.
+            - Candidate Diana DeGette recieved of the 73.8% vote and 272,892 number of the votes.
+            - Candidate Raymon Anthony Doane recieved 3.1% of the vote and 11,606 number of the votes.
+      - The winner of the election was:
+            - Candidate Diana DeGette, who recieved of the 73.8% vote and 272,892 number of the votes.
 
 ### Analysis and Challenges 
-      -  election_results.csv is located in the C:\Users\laura\source\save_HW_here
+      - Indenting changes how Python executes modules and varibles need to be set early in modules
       -  Python uses '\' for window's path separators
       -  Type 'python' on the gitbash terminal command line to activate python libraries '>>>' (command line prompt). 
             Type in command line 'exit()' to quit python and close the terminal window.
       -  To paste text in gitbash terminal windows (shift+Ctrl+V)
       -  To run python code >>> exit() to $commandlineprompt and type 'python'  and the file. ie. $ python PyPoll.py
-      -  HINT: Upper and Lower cases matter in coding so rule-of-thumb, use lower case where-ever possible 
-      -  Conclusion:  Indenting changes how Python executes modules and varibles need to be set early in modules
       
-   https://github.com/LaurasData/PyPoll/blob/main/README.md
-
 ### Challenges and Difficulties Encountered
       - to complete Section 3.4.3, additional directories had to be created 
                         Resources and Analysis had to be created on the local root homework directory
       - Setup immediatly after the root directory or the coding doesn't work
-      - Setup New directory as C:\Users\laura\source\save_HW_here\my_challenges\03-PyPoll\Resources\Analysis
-      - HINT:  PyPoll.py file stays in the root homework directory
-                         "C:\Users\laura\source\save_HW_here\my_challenges\03-PyPoll\Resources"
+      - PyPoll.py file stays in the root homework directory
+                        
 
 ## Results on Development Processes
       - What are two development observations?
