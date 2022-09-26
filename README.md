@@ -1,4 +1,4 @@
-# PyPoll
+# Election Analysis
 Perform analysis+ to include audit of election_results.csv data for the Colorado Board of Elections
 
 ## Overview of Project
@@ -20,7 +20,9 @@ Perform analysis+ to include audit of election_results.csv data for the Colorado
   
 ### Summary
       - The analysis of the election show that:
-      - there were 369,711 votes cast in the election
+      
+      - 369,711 votes cast in the election
+      
       - The candidates were:
             - Charles Casper Stockham
             - Diana DeGette
